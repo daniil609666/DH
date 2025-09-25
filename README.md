@@ -9,3 +9,4 @@
 Твики на всю систему(твики проводника, Замена файлов для обхода вирусов)
 
 [Скачать](https://drive.google.com/file/d/1OYYGwEIfB3z-9oPEvLzbznRkC5qqfar-/view?usp=sharing)
+Так как, файлы слишком большие для GitHub я прикрепил ссылку на Google Drive
